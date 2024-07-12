@@ -1,0 +1,9 @@
+Designing a Rest API
+
+Need 2 APIs
+1. Stores User Info
+2. Stores Games Info
+
+GET /api/users - return JSON data
+
+

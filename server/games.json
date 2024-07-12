@@ -1,0 +1,82 @@
+[
+  {
+    "tag":"Adventure Platformer",
+    "name":"Holiday Hops",
+    "src":"https://ibb.co/Lk6v6jn",
+    "description":"Go on a holiday with Mr. Pulo D , and make adventurous leaps with a glider . Save Pulo from falling by avoiding obstacles on this thrilling ride ..",
+    "download":"https://play.google.com/store/apps/details?id=com.CGL.Holiday_hops",
+    "loginrequired":false
+  },
+  {
+    "tag":"Puzzle Adventure",
+    "name":"Space Mania",
+    "src":"https://ibb.co/0c0jxdt",
+    "description":"Heading towards a space mission, you get caught into a wormhole leading your ship to this strange world. Steer your spaceship to escape these complex web of wormholes whilst protecting it from getting hit by frequent meteor showers and alien attacks. Complement your abilities with magical spells and interesting power ups on your way.",
+    "download":"https://play.google.com/store/apps/details?id=com.CGL.SpaceMania",
+    "loginrequired": false
+  },
+  {
+    "tag":"Adventure Platformer",
+    "name":"The Smiling Face",
+    "src":"https://ibb.co/Y7hTM9g",
+    "description":"Long before you came to know about Joker, Joker came to know about you. Yes! Joker knows that he's a fictional character, trapped inside the paper bars, guided by the unsaid rules. He knows it because no matter how hard he tries he cannot defeat the hero. Villains are nothing but obstruction for heroes to overcome, \"Heroes will always win\" were the lines stated by the author. Help him to escape the fake reality by shattering the very law of friction. Chaos is reality, Chaos is natural. Help him to defeat Batman !!",
+    "download":"https://play.google.com/store/apps/details?id=com.CGLIITKGP.The_Smiling_Face",
+    "loginrequired": true
+  },
+  {
+    "tag":"Hyper-Casual",
+    "name":"The Passion Follower",
+    "src":"https://ibb.co/dt7m1qm",
+    "description":"Bored of quarantine? Why not give your brain a challenge while you are waiting for your normal life to return. We present to you a game made with passion and enthusiasm which will help your brain get efficient at multitasking while giving it the necessary relax...",
+    "download":"https://play.google.com/store/apps/details?id=com.cgl.The_passion_followers",
+    "loginrequired": true
+  },
+  {
+    "tag":"Adventure Platformer",
+    "name":"Ricksy Run",
+    "src":"https://ibb.co/KbrWxk9",
+    "description":"Trapped on an unknown spaceship under the attack of aliens, Rick must go on his mission to find Morty. Equipped with only his portal gun, he must get past the invading aliens and rescue Morty. Maneuver around deadly obstacles and surmount steep walls on the spaceship infested with traps and enemies. Carve your way across these to get to the showdown against the Alien Leader.",
+    "download":"https://play.google.com/store/apps/details?id=com.CGLKharagpur.RicksyRun",
+    "loginrequired": true
+  },
+  {
+    "tag":"Puzzle Platformer",
+    "name":"The Perfect Thief",
+    "src":"https://ibb.co/VNDZ1WB",
+    "description":"the building full of guards, Traps, and Locks unseen.....The ability of invisibility and sneak walking might come in handy.",
+    "download":"https://play.google.com/store/apps/details?id=com.ComputerGraphicsLab.ThePerfectThief",
+    "loginrequired": true
+  },
+  {
+    "tag":"Endless Runner",
+    "name":"Velocity",
+    "src":"https://ibb.co/cvyVL5M",
+    "description":"How Fast can you go ?",
+    "download":"https://play.google.com/store/apps/details?id=com.PlayLogical.Velocity",
+    "loginrequired": true
+  },
+  {
+    "tag":"Adventure Platformer",
+    "name":"Warrior's Quest",
+    "src":"https://ibb.co/QJyDr0w",
+    "description":"Start an exciting adventure in a magical land full of danger and excitement in \"Warrior's Quest\"! Play as a brave warrior and explore tricky landscapes, fight tough enemies, and beat dangerous traps to fulfill your destiny.",
+    "download":"https://computer-graphics-society.itch.io/warriors-quest",
+    "loginrequired": false
+  },
+  {
+    "tag":"Hyper-Casual",
+    "name":"Crystal Break",
+    "src":"https://ibb.co/P1QD7NP",
+    "description":"Put your reflexes to test in this relaxing yet thrilling game. Challenge your friends to beat your high score or just enjoy the sweet sound of breaking glass!",
+    "download":"https://computer-graphics-society.itch.io/crystal-break",
+    "loginrequired": true
+  },
+  {
+    "tag":"Adventure Platformer",
+    "name":"Project ZRH",
+    "src":"https://ibb.co/F0JM7Nh",
+    "description":"Project ZRH is a First Person Shooter, horror game where the player fights zombies with a variety of weapons in fast-paced combat.Level 1 takes place in BRH IITKGP",
+    "download":"https://computer-graphics-society.itch.io/project-zrh",
+    "loginrequired": true
+  }
+]

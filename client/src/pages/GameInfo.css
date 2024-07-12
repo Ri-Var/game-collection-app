@@ -1,0 +1,19 @@
+.game-info-box h2{
+    text-align: center;
+}
+
+.game-info-subbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.game-info-subbox img{
+    margin-left: 50px;
+}
+
+.game-info {
+    margin-left: 100px;
+    flex: 1 1 200px; /* Allows flex items to grow and shrink, and sets a base width */
+}

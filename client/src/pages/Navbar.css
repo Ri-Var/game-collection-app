@@ -1,0 +1,30 @@
+.navbar{
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar p{
+    color: rgb(0, 0, 0);
+}
+
+.navbar h1{
+    color: rgb(0, 0, 0);
+}
+
+.navbar input{
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    color: purple;
+    text-align: center;
+    padding: 10px;
+}

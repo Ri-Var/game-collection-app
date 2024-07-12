@@ -1,0 +1,43 @@
+@font-face {
+    font-family: arsenal-sc-regular;
+    src: url(https://fonts.google.com/share?selection.family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700);
+}
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.game-container {
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgb(225, 225, 225);
+}
+
+.game-card {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    padding: 6px;
+    transition: transform 0.5s, box-shadow 0.5s;
+    box-shadow: 10px 10px 20px rgba(104, 104, 104, 0.3); /* 50% transparency */
+}
+
+.game-card:hover {
+    cursor: pointer;
+    box-shadow: 10px 10px 20px rgba(104, 104, 104, 0.1); /* 50% transparency */
+    transform: scale(1.04);
+}
+
+.game-card img {
+    width: 100%;
+    height: 80%;
+}
+
+.game-card h4 {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
